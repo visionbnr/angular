@@ -28,29 +28,5 @@
 	 "stuname":"Ajay",
 	 "branch":"CSC",
 	 "fee":31000
-	},
-	{
-	 "stuid":105,
-	 "stuname":"Bhanu",
-	 "branch":"CIVIL",
-	 "fee":31000
-	},
-  {
-	 "stuid":106,
-	 "stuname":"Venu",
-	 "branch":"EEE",
-	 "fee":31000
-	},
-  	{
-	 "stuid":107,
-	 "stuname":"Govind",
-	 "branch":"ECE",
-	 "fee":31000
-	},
-  	{
-	 "stuid":108,
-	 "stuname":"Harika",
-	 "branch":"CIVIL",
-	 "fee":31000
 	}
 ]
